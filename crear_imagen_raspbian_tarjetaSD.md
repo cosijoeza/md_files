@@ -17,13 +17,13 @@ En la siguiente imagen se muestra un ejemplo:
 
   La siguiente imagen muestra un ejemplo: 
   ![Scheme](imagenes/ci_2.PNG)
-## 4.-Seleccionar el dispositivo
+## 3.-Seleccionar el dispositivo
   * La opción del medio cambiará su color a azul cielo.
   * Seleccionar el dispositivo en el que desea cargar la imagen.
 
 La siguiente imagen muestra un ejemplo: 
 ![Scheme](imagenes/ci_3.PNG)
-## 5.-Creación de la imagen
+## 4.-Creación de la imagen
   * Presione el último recuadro que tiene inscrito el nombre de **Flash!** y espere para concluir con la creación de la imagen.
 
 La siguiente imagen muestra un ejemplo:
